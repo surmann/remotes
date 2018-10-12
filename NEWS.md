@@ -1,6 +1,9 @@
 
 # devel
 
+* `update.package_deps()` no longer prompts to install uninstalled
+  dependencies, they are always installed (#203).
+
 # remotes 2.0.0
 
 ## Breaking changes
